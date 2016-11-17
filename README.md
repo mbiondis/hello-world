@@ -1,4 +1,4 @@
-# hello-world
+# Hey you! Hello there.
 
 Martin here! I like to think myself as a midway between a world adventurer and a structured engineer. I love sports (especially football) graphic design, programming and reading about history. 
 
